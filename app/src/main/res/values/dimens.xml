@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_padding">10dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_size_menu">15sp</dimen>
+    <dimen name="padding_size">20dp</dimen>
+    <dimen name="radius_size">20dp</dimen>
+</resources>
