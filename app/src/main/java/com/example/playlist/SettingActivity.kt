@@ -1,11 +1,9 @@
-package com.example.myapplication
+package com.example.playlist
 
-import android.content.Intent
 import android.os.Bundle
-import android.view.View
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.playlist.R
+
 
 class SettingActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

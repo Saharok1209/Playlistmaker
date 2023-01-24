@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="@color/white"
     android:padding="@dimen/text_size"
-    tools:context=".SettingActivity">
+    tools:context="com.example.playlist.SettingActivity">
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

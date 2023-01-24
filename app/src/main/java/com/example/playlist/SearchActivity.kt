@@ -1,8 +1,8 @@
-package com.example.myapplication
+package com.example.playlist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.playlist.R
+
 
 class SearchActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
