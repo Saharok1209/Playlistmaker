@@ -14,16 +14,7 @@
         android:theme="@style/Theme.Playlist"
         tools:targetApi="31">
         <activity
-            android:name="com.example.playlist.MediaActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.playlist.SearchActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.playlist.SettingActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.playlist.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
